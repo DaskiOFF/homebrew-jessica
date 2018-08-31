@@ -1,8 +1,8 @@
 class Jessica < Formula
   desc "Personal Assistent for iOS project"
   homepage ""
-  url "https://github.com/DaskiOFF/jessica/archive/1.3.5.tar.gz"
-  sha256 "564a964bd70e875f88cb9d7f07f4d34d8233a8092c8a1f6bb4d6fad1a7c298cc"
+  url "https://github.com/daskioff/jessica/archive/1.4.tar.gz"
+  sha256 "f8533c02bf70469405c7e8d11003e8d6716ee346757f5d1d948f75c17623b947"
   
   depends_on "go@1.9" => :build
   
